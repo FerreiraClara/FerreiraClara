@@ -2,6 +2,7 @@
 
 #### Sobre mim:  
 - Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio
+- Apaixonada por tecnologia e em busca de uma oportunidade de colocar em prática tudo que venho aprendendo
 - Tecnologias que tive contato:
 ![MySQL](https://img.shields.io/badge/-MySQL-5299cc?style=flat-square&logo=mysql)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
