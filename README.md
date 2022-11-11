@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oii! Me chamo Clara 
 
 #### Sobre mim:
 - Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio
@@ -16,13 +16,21 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FerreiraClara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerreiraClara&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-##
   
+<div style="display: inline_block"><br>
+  
+  <img align=right alt="pic" height="150" width="150" src="https://cdn.discordapp.com/attachments/734962641277288458/1040673278571851867/gif.gif">
+</div>
+  
+  ##
+ 
 <div> 
   <a href = "mailto:ferreira.clararf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/clararochaferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/FerreiraClara/FerreiraClara/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://www.linkedin.com/in/clararochaferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+  
+<div align="center">
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
