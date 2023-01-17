@@ -8,6 +8,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-1a165f?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-9e7e15?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-blue?style=flat-square)
 
 
 <br>
