@@ -15,10 +15,12 @@
 
 <p align="center">
 <a href="https://github.com/FerreiraClara">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FerreiraClara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FerreiraClara&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FerreiraClara&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FerreiraClara&layout=compact&langs_count=8&theme=highcontrast"/>
 </a>
 </p>
+
+  ##
   
 <div align="center">
   
