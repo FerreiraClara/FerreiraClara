@@ -19,14 +19,12 @@
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FerreiraClara&layout=compact&langs_count=8&theme=highcontrast"/>
 </a>
 </p>
-
-  ##
   
   
 <div style="display: inline_block"><br>
   <img align=right alt="pic" height="150" width="150" src="https://cdn.discordapp.com/attachments/734962641277288458/1040673278571851867/gif.gif">
 </div>
-  
+
   ##
  
 <div> 
