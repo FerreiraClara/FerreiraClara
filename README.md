@@ -22,11 +22,6 @@
 
   ##
   
-<div align="center">
-  
-  ![Snake animation](https://github.com/FerreiraClara/FerreiraClara/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
   
 <div style="display: inline_block"><br>
   <img align=right alt="pic" height="150" width="150" src="https://cdn.discordapp.com/attachments/734962641277288458/1040673278571851867/gif.gif">
