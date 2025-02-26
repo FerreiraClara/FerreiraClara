@@ -1,7 +1,7 @@
 ## Clara Rocha Ferreira
 
 #### Sobre mim:  
-- Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio
+- Estudante de Engenharia de Software
 - Apaixonada por tecnologia e em busca de uma oportunidade de colocar em prática tudo que venho aprendendo
 - Tecnologias que tive contato:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
