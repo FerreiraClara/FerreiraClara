@@ -1,6 +1,5 @@
 ## Clara Rocha Ferreira
 
-- Acessora I em Desenvolvimento de Sistemas · EMTEC, Juiz de Fora
 - 2 sistemas fullstack em produção com usuários reais
 - Engenharia de Software · 5° período · UniAcademia
 
